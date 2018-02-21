@@ -1,0 +1,10 @@
+[[plugins]]
+repo = 'posva/vim-vue'
+
+# JS syntax
+[[plugins]]
+repo = 'othree/yajs.vim'
+
+# CSS3 syntax
+[[plugins]]
+repo = 'hail2u/vim-css3-syntax'

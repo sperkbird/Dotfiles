@@ -1,0 +1,9 @@
+[[plugins]]
+repo = 'tpope/vim-rails'
+depends = ['vim-bundle']
+
+[[plugins]]
+repo = 'tpope/vim-bundler'
+
+[[plugins]]
+repo = 'tpope/vim-endwise.git'

@@ -1,0 +1,8 @@
+[[plugins]]
+repo = 'sickill/vim-monokai'
+
+[[plugins]]
+repo = 'KKPMW/moonshine-vim'
+
+[[plugins]]
+repo = 'haron-prime/antares'
