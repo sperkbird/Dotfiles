@@ -18,3 +18,7 @@
 
 
 # End of https://www.gitignore.io/api/linux
+
+
+# tmux
+.tmux/resurrect/*
